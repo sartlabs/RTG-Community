@@ -118,9 +118,13 @@ For new content, announcements, research and community updates, follow the offic
 
 Connect with us:
 https://www.youtube.com/@redteamgarage-rtg
+
 https://telegram.me/RedTeamGarage
+
 https://www.redteamgarage.com/
+
 https://www.linkedin.com/company/redteamgarage-rtg
+
 https://x.com/thecyberinsane   //  **RTG Creator- Sarang Tumne (Cyber Insane)**
 
 Download RTG's RedOS Arsenal Community Edition- A Red Teamer's Custom Linux Distro:
