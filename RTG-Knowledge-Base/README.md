@@ -1,5 +1,5 @@
 
-# RedTeamGarage Community
+# RedTeamGarage (RTG) Community
 
 > **Practical offensive security. Real-world red teaming. Community-driven learning.**
 
