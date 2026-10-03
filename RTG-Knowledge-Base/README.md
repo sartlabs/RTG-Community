@@ -117,6 +117,7 @@ RTG does not encourage unauthorized access, disruption, data theft or other mali
 For new content, announcements, research and community updates, follow the official RTG channels.
 
 Connect with us:
+
 https://www.youtube.com/@redteamgarage-rtg
 
 https://telegram.me/RedTeamGarage
